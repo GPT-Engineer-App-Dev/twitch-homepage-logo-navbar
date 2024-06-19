@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const streams = [
   {
     id: 1,
-    thumbnail: "https://via.placeholder.com/300x200",
+    thumbnail: "https://images.unsplash.com/photo-1593642634367-d91a135587b5",
     title: "Stream 1",
     category: "Gaming",
     viewers: 1200,
@@ -18,7 +18,7 @@ const streams = [
   },
   {
     id: 3,
-    thumbnail: "https://via.placeholder.com/300x200",
+    thumbnail: "https://images.unsplash.com/photo-1581091870621-1f9d9a7f6a3b",
     title: "Stream 3",
     category: "Art",
     viewers: 500,
